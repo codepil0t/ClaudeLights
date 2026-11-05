@@ -33,8 +33,8 @@ its terminal to the front, or ⌥-click it to open the project folder.
 You need macOS 13+ and Swift 5.9+ (Xcode or the Command Line Tools).
 
 ```sh
-git clone https://github.com/<you>/claude-lights.git
-cd claude-lights
+git clone https://github.com/codepil0t/ClaudeLights.git
+cd ClaudeLights
 make install      # builds, copies to /Applications and launches
 ```
 
